@@ -1,0 +1,10 @@
+__pycache__/
+logs/
+*.h5
+*.json
+data/
+sample/
+*.7z
+*.JPG
+*.csv
+*.pyc
